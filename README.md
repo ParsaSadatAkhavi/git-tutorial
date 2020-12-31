@@ -1,7 +1,8 @@
 # git-tutorial
 
-HoseinGhanbari
-Mohammadreza Alizadeh
-alisanaye
-hadikhaki
-AnooshirvanAhmadi
+- HoseinGhanbari
+- kabiria84
+- Mohammadreza Alizadeh
+- alisanaye
+- hadikhaki
+- AnooshirvanAhmadi
