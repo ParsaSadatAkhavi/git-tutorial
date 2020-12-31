@@ -2,10 +2,9 @@
 
 - HoseinGhanbari
 - aminnazari-design
-- HoseinGhanbari
-- mr.mahdi karimi
+- mahdikarimi-web
 - kabiria84
-- Mohammadreza Alizadeh
+- alizadeh84
 - alisanaye
-- hadikhaki
-- AnooshirvanAhmadi
+- hadikhaki1384
+- Anooshirvan-1384
